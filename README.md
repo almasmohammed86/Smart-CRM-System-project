@@ -140,19 +140,6 @@ http://127.0.0.1:8000/
 
 After running the project, you can access these pages:
 
-* 🔐 **Admin Panel:**
-  http://127.0.0.1:8000/admin/
-
-* 📊 **Dashboard:**
-  http://127.0.0.1:8000/dashboard/
-
-* 📋 **All Leads:**
-  http://127.0.0.1:8000/all-leads/
-
-* 📈 **Source Analysis:**
-  http://127.0.0.1:8000/source-analysis/
-
----
 
 ### ✅ Note:
 
